@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonatan-nyo&label=Profile%20views&color=0e75b6&style=flat" alt="yonatan-nyo" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yonatan-nyo" alt="yonatan-nyo" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://portfolio-react-yonatan-nyo.vercel.app](https://portfolio-react-yonatan-nyo.vercel.app)
 
 - 💬 Ask me about **React, Vue, Express, DB, and REST API or even GraphQl**
 
-- 📫 How to reach me **yonatan.njoto@gmail.com**
+- 📫 How to reach me **yonatan.nyo@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link](https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link)
 
