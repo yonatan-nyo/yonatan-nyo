@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link](https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link)
 
-- ⚡ Fun fact **I started coding on competitive programming**
+- ⚡ Fun fact **I began my programming journey through competitive programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
