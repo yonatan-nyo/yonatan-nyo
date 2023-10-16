@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yonatan.njoto@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/yonatan-njoto/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link](https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1j2K3aZ8i4QbchWu3DqFR-HuAKCe8VDvp/view?usp=sharing](https://drive.google.com/file/d/1j2K3aZ8i4QbchWu3DqFR-HuAKCe8VDvp/view?usp=sharing)
 
 - ⚡ Fun fact **I began my programming journey through competitive programming.**
 
