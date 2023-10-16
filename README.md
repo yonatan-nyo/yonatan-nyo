@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Vue, Express, DB, and REST API or even GraphQl**
 
-- 📫 How to reach me **yonatan.nyo@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/yonatan-njoto/)
+- 📫 How to reach me **yonatan.njoto@gmail.com** | [**LinkedIn**](https://www.linkedin.com/in/yonatan-njoto/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link](https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link)
 
