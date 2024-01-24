@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonatan-nyo&label=Profile%20views&color=0e75b6&style=flat" alt="yonatan-nyo" /> </p>
 
+- 🎓 Pursuing a major in computer science at [**Institut Teknologi Bandung**](https://www.itb.ac.id)
+
 - 👨‍💻 All of my projects are available at [https://portfolio-react-yonatan-nyo.vercel.app](https://portfolio-react-yonatan-nyo.vercel.app)
 
 - 💬 Ask me about **React, Vue, Express, DB, and REST API or even GraphQl**
