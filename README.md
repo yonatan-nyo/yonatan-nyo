@@ -5,13 +5,13 @@
 
 - 🎓 Pursuing a major in computer science at [**Institut Teknologi Bandung**](https://www.itb.ac.id)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-react-yonatan-nyo.vercel.app](https://portfolio-react-yonatan-nyo.vercel.app)
+[//]: # (- 👨‍💻 All of my projects are available at [https://portfolio-react-yonatan-nyo.vercel.app](https://portfolio-react-yonatan-nyo.vercel.app) )
 
 - 💬 Ask me about **React, Vue, Express, DB, and REST API or even GraphQl**
 
 - 📫 How to reach me **yonatan.nyo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link](https://drive.google.com/file/d/1LEnGOV_1zqNGDY4MM0EoHaAiI4BCu24o/view?usp=drive_link)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yonatan-njoto](https://www.linkedin.com/in/yonatan-njoto)
 
 - ⚡ Fun fact **I started coding on competitive programming**
 
