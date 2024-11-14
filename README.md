@@ -31,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonatan-nyo&show_icons=true&locale=en&layout=compact" alt="yonatan-nyo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yonatan-nyo&show_icons=true&locale=en" alt="yonatan-nyo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonatan-nyo" alt="yonatan-nyo" /></p>
