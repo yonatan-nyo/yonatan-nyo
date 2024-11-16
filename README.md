@@ -5,9 +5,7 @@
 
 - 🎓 Pursuing a major in computer science at [**Institut Teknologi Bandung**](https://www.itb.ac.id)
 
-<!-- 
-- 👨‍💻 Visit my projects at [https://portfolio-react-yonatan-nyo.vercel.app](https://portfolio-react-yonatan-nyo.vercel.app)
--->
+- 👨‍💻 Visit my projects at [https://yonatan-nyo.vercel.app](https://yonatan-nyo.vercel.app)
 
 - 💬 Ask me about **React, Vue, Express, DB, and REST API or even GraphQl**
 
