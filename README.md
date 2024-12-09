@@ -7,7 +7,7 @@
 
 - 👨‍💻 Visit my projects at [https://yonatan-nyo.vercel.app](https://yonatan-nyo.vercel.app)
 
-- 💬 Ask me about **React, Vue, Express, DB, and REST API or even GraphQl**
+- 💬 Ask me anything about **Full stack development** starting from web to app
 
 - 📫 How to reach me **yonatan.nyo@gmail.com**
 
