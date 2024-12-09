@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonatan-nyo&label=Profile%20views&color=0e75b6&style=flat" alt="yonatan-nyo" /> </p>
 
-- 🎓 Pursuing a major in computer science at [**Institut Teknologi Bandung**](https://www.itb.ac.id)
+- 🎓 Pursuing a major in Informatics Engineering at [**Institut Teknologi Bandung**](https://www.itb.ac.id)
 
 - 👨‍💻 Visit my projects at [https://yonatan-nyo.vercel.app](https://yonatan-nyo.vercel.app)
 
