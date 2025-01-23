@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yonatan Edward Njoto</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonatan-nyo&label=Profile%20views&color=0e75b6&style=flat" alt="yonatan-nyo" />  </p>
-[![wakatime](https://wakatime.com/badge/user/997fe812-f699-4990-903d-277703f9fd65.svg)](https://wakatime.com/@997fe812-f699-4990-903d-277703f9fd65)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonatan-nyo&label=Profile%20views&color=0e75b6&style=flat" alt="yonatan-nyo" />  <img src="https://wakatime.com/badge/user/997fe812-f699-4990-903d-277703f9fd65.svg" alt="wakatime" /> </p>
 
 - 🎓 Pursuing a major in Informatics Engineering at [**Institut Teknologi Bandung**](https://www.itb.ac.id)
 
