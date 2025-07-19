@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yonatan-njoto](https://www.linkedin.com/in/yonatan-njoto)
 
-- ⚡ Fun fact **I started coding on competitive programming**
+- ⚡ Fun fact **I began my coding journey on competitive programming**
 
 
 <h3 align="left">Connect with me:</h3>
